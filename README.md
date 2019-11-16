@@ -1,6 +1,7 @@
-# test-nuxt
+# nuxt-wp-static
 
-> My sensational Nuxt.js project
+My site with wordpress backend & Static gen
+
 
 ## Build Setup
 
